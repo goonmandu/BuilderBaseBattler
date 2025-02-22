@@ -1,1 +1,4 @@
+easyocr~=1.7.2
+numpy~=2.1.1
 keyboard~=0.13.5
+pillow~=11.1.0
