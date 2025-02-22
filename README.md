@@ -8,3 +8,7 @@ The BlueStacks keymap configuration file for this script is also provided: `bbb.
 [Update to Our Fair Play Policy and Next Steps](https://supercell.com/en/games/clashofclans/blog/misc/update-to-our-fair-play-policy-and-next-steps/)
 
 **Use at your own risk.**
+
+# Usage
+1. `pip3 install -r requirements.txt`
+2. `python3 main.py`
