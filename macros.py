@@ -86,12 +86,9 @@ def collect_elixir_cart(log=False):
 
 
 def countdown(sec, prefix):
-    print(f"{prefix} {sec}", end=" ")
-    time.sleep(1)
-    for i in range(sec-1, 0, -1):
-        print(i, end=" ")
+    for i in range(sec, 0, -1):
+        print(f"{prefix} in {i}...")
         time.sleep(1)
-    print()
 
 
 def correct_ocr_misdetection(old_number: int, new_number: int) -> int:
