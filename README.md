@@ -25,7 +25,7 @@ Add a Swipe shortcut with its default keymaps on the center of the BlueStacks wi
 ### Bounding Boxes for OCR (optional)
 Refer to [Issue #1](https://github.com/goonmandu/BuilderBaseBattler/issues/1#issuecomment-2677164382).
 
-### Command Line
+## Command Line
 1. `pip3 install -r requirements.txt`
 2. `python3 main.py`
 
